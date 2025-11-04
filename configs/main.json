@@ -1,0 +1,16 @@
+{
+    "aimbot": {
+        "bind": 5,
+        "enabled": true,
+        "mouse_smoothness": 2.0
+    },
+    "rage": {
+        "fly": false,
+        "fly_speed": 16.0
+    },
+    "visuals": {
+        "box": true,
+        "chams": false,
+        "enabled": true
+    }
+}
